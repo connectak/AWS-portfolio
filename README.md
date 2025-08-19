@@ -31,3 +31,7 @@ aws-portfolio/
 │── variables.tf # Terraform variables
 │── outputs.tf # Terraform outputs
 │── provider.tf # AWS provider setup
+
+🌍 Live Demo
+
+🔗 My Portfolio on AWS ( https://connectak.github.io/AWS-portfolio/) 
