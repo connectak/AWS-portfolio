@@ -1,7 +1,7 @@
 # 🌐 AWS Portfolio Project
 
 This is my simple **Portfolio Website** hosted on **Amazon S3** and provisioned using **Terraform**.  
-It includes a styled homepage (`index.html`), error page (`error.html`), CSS animations, and optional images.
+It includes a styled homepage (`index.html`), CSS animations
 
 ---
 
